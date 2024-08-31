@@ -28,6 +28,12 @@ Inspired by the organometallic chemistry, we then introduced the ligand cone ang
 The calculation of the cone angle is performed via the [nano-CAT](https://github.com/nlesc-nano/nano-CAT) code and preceded by a biased conformational search implemented in [CAT](https://github.com/nlesc-nano/CAT) and by a geometry optimization at the DFTB level of theory with the GFN1-xTB parameter set [5] using AMS.
 
 
+Publication in preparation:
+A Universal Database of Surface Ligands in Colloidal Quantum Dots
+J. Zito, B. F. van Beek, L. De Trizio,L. Visscher,L. Manna,and I. Infante
+
+
+
 [1] Kim S et al., Nucleic Acids Res., 49(D1):D1388–D1395, 2021.
 
 [2] Klamt A. et al., J. Phys. Chem., 99(7) : 2224–2235, 1995.
