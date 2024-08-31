@@ -23,7 +23,7 @@ The estimation of COSMO-RS (COnductor-like Screening MOdel for Realistic Solvent
 
 ## Ligand/Ligand Interactions
 
-Inspired by the organometallic chemistry, we then introduced the ligand cone angle as an approximate measure of the steric interactions amongst neighboring ligands at the QD surface. As preliminary linearization and geometry optimization were found to be required to obtain realistic molecular conformations and the cone angle. The calculations are therefore more time-consuming than initially expected and are currently being run. The results will be progressively added to the dataset as they become available.ed from the reference database.
+Inspired by the organometallic chemistry, we then introduced the ligand cone angle as an approximate measure of the steric interactions amongst neighboring ligands at the QD surface. As preliminary linearization and geometry optimization were found to be required to obtain realistic molecular conformations and the cone angle. The calculations are therefore more time-consuming than initially expected and are currently being run. The results will be progressively added to the dataset as they become available.
 
 The calculation of the cone angle is performed via the [nano-CAT](https://github.com/nlesc-nano/nano-CAT) code and preceded by a biased conformational search implemented in [CAT](https://github.com/nlesc-nano/CAT) and by a geometry optimization at the DFTB level of theory with the GFN1-xTB parameter set [5] using AMS.
 
